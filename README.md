@@ -1,2 +1,2 @@
-# Yoga
+# Projects
 machine learning project
